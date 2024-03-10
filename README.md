@@ -34,7 +34,7 @@ You can use it with execute-assembly or standalone executable
 <b>--startup</b>     : Persistence via Startup<br>
 ``RedPersist.exe --startup C:\Users\User\exe.exe``<br><br>
 <b>--autologon</b>     : Persistence via Autologon<br>
-``RedPersist.exe --startup C:\Users\User\exe.exe``<br><br>
+``RedPersist.exe --autologon C:\Users\User\exe.exe``<br><br>
 <b>--screensaver</b> : Persistence via Screensaver<br>
 ``RedPersist.exe --screensaver C:\Users\User\exe.exe``<br><br>
 <b>--wmi</b>         : Persistence via Wmi Event Subscription(To Notepad.exe)<br>
